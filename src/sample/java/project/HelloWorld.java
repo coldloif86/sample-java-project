@@ -7,7 +7,7 @@ class HelloWorld{
     }
 
     public static void aMethod(){
-      System.out.println("You are awesome!");
+      System.out.println("You are awesome! You can be like Elon Musk!");
     }
 
 }
